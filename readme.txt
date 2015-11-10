@@ -7,3 +7,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 creating a new branch is quick and so very simple.
 this is modify and some bugs.
+this is modify
+this is dev changes
